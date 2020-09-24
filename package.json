@@ -15,7 +15,8 @@
 		"cors": "^2.8.4",
 		"ejs": "^2.5.2",
 		"express": "^4.17.1",
-		"mongoose": "^2.9.10"
+		"mongoose": "^2.9.10",
+		"react-redux": "^7.2.1"
 	},
 	"devDependencies": {
 		"concurrently": "^3.6.1",
